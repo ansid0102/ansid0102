@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="200" height="200">
+  <img src="https://github.com/ansid0102/ansid0102.github.io/blob/master/static/profile_pic.jpg" alt="Your Name" width="200" height="200">
   <h1>Hello, I'm Aneesh Siddhartha! 👋</h1>
   <p>Welcome to my corner of the GitHub universe!</p>
   <p>I'm a Software Engineer with a passion for learning and doing "Side Projects". When I'm not coding, you can find me listening to songs.</p>
