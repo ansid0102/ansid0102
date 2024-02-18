@@ -8,7 +8,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420" alt="Ubuntu">
+  <img src="https://shields.io/badge/Windows--9cf?style=flat&llogo=Windows&style=social" alt="Windows">
   <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC" alt="VS Code">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="JAVA">
   
